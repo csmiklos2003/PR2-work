@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Munka\PR2-work\lab-01\Source.cpp(37,45): warning C4390: ';': empty controlled statement found; is this the intent?
+  lab-01.vcxproj -> C:\Munka\PR2-work\lab-01\x64\Debug\lab-01.exe
